@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "532822454491",
+    "firebase_url": "https://mobilicis-cd1e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobilicis-cd1e2",
+    "storage_bucket": "mobilicis-cd1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532822454491:android:b853b0d44df9d2882d1cfe",
+        "android_client_info": {
+          "package_name": "com.spacester.mobilicis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANY0Me2H3x__E8cHzgwwjZwoTJgdsnRws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
